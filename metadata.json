@@ -1,0 +1,6 @@
+{
+  "name": "designdeams — Editorial Design Partner",
+  "description": "보기 좋은 디자인을 넘어 완성도 높은 결과물까지. 기획의 의도를 이해하고 정보를 체계화하며 인쇄 제작까지 책임지는 편집디자인 전문 파트너 designdeams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
